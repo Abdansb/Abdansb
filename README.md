@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdansb&show_icons=true&theme=codeSTACKr&card_width=60&line_height=25)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdansb&theme=codeSTACKr&layout=compact&card_width=60&line_height=25)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdansb&show_icons=true&theme=codeSTACKr&card_width=70&line_height=15)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdansb&theme=codeSTACKr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdansb&show_icons=true)
 **Abdansb/Abdansb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
