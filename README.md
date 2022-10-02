@@ -3,8 +3,8 @@
 
 <p align="left">
 <a href="https://github.com/abdansb">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdansb&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdansb&layout=compact&langs_count=8&theme=nightowl"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdansb&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdansb&layout=compact&langs_count=8&theme=nightowl"/>
 </a>
 </p>
 <!--
