@@ -1,5 +1,9 @@
 ### Hi there 👋
-### Profile picture by AI Gahaku
+<a href="https://www.instagram.com/abdan_sb/">
+  <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<br><br>
+
 
 <p align="left">
 <a href="https://github.com/abdansb">
